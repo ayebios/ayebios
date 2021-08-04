@@ -24,7 +24,7 @@ source code files.
 Copyright (C) 2021 Abhishek Choudhary
 
 The license terms for all derivatives shall be under AyeAI Singularity Public License latest version, unless
-impunged by any of the terms of the original license. These artifacts, text, source code or other deliverables
+impugned by any of the terms of the original license. These artifacts, text, source code or other deliverables
 are provided AS IS, with NO WARRANTY and NO LIABILITY. These artifacts, text or source code MUST NOT BE USED
 for any business critical or safety critical systems.
 
@@ -34,7 +34,7 @@ and conditions of the original source code from which these have been derived.
 AyeAI, AyeAM, Hindawi Programming System, AyeBIOS are trademarks or registered trademarks of Abhishek Choudhary. 
 All other trademarks are acknowledged as belonging to their respective owners.
 
-All disputes are subject to courts in Hyderabad, Telangana, India only.
+All disputes are subject to courts in Hyderabad, Telangana, INDIA only.
 
 #### /NOTICE
 

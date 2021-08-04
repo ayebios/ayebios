@@ -29,7 +29,7 @@ Build for coreboot
 ------------------
 
 To build for coreboot please see the coreboot build instructions at:
-<http://www.coreboot.org/AyeBIOS>
+<http://www.coreboot.org/SeaBIOS>
 
 Build as a UEFI Compatibility Support Module (CSM)
 --------------------------------------------------
