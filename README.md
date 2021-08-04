@@ -1,5 +1,5 @@
 # AyeBIOS
-#### Localized source code of an open source BIOS (as per the license) derived from [SeaBIOS](https://github.com/qemu/seabios)
+#### Localized open source BIOS (as per the license) derived from [SeaBIOS](https://github.com/qemu/seabios)
 #### The localized source code has been created using [Hindawi Programming System](https://hindawiai.github.io)
 
 To see, access or use the original sources from which these files have been derived the following, or equivalent may be used. 
