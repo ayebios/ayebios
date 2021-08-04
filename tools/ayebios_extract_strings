@@ -1,0 +1,1 @@
+find . -type f | grep '\.[ch]' | xargs grep -B2 -A2 printf | grep -v "#include" | sed 's/\\"/__quote__/g; s/,/__comma__/g; s/"/\n"/g' | grep '^"' | grep -v '^",\|" //' | grep '[a-z]' | sort -u | cut -c2- > out/ayetrans.inp
