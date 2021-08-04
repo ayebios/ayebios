@@ -1,7 +1,6 @@
-AyeVGABIOS is a sub-project of the AyeBIOS project - it is an open
+AyeVGABIOS is a sub-project of the AyeBIOS project - it is derived from SeaBIOS - an open
 source implementation of a 16bit X86
-[VGA BIOS](http://en.wikipedia.org/wiki/Video_BIOS). AyeVGABIOS is the
-default VGA BIOS on [QEMU](http://www.qemu.org/). AyeVGABIOS can also
+[VGA BIOS](http://en.wikipedia.org/wiki/Video_BIOS). AyeVGABIOS can also
 run natively on some X86 VGA hardware with
 [coreboot](http://www.coreboot.org/).
 
