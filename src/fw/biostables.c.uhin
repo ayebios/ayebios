@@ -337,7 +337,7 @@ display_uuid(व्योम)
             अगर (SMBiosAddr->smbios_major_version > 2 ||
                 (SMBiosAddr->smbios_major_version == 2 &&
                  SMBiosAddr->smbios_minor_version >= 6)) अणु
-                म_लिखो("Machine UUID"
+                                 म_लिखो("Machine UUID"
                        " %02x%02x%02x%02x"
                        "-%02x%02x"
                        "-%02x%02x"
@@ -350,7 +350,7 @@ display_uuid(व्योम)
                        , uuid[10], uuid[11], uuid[12]
                        , uuid[13], uuid[14], uuid[15]);
             पूर्ण अन्यथा अणु
-                म_लिखो("Machine UUID"
+                                 म_लिखो("Machine UUID"
                        " %02x%02x%02x%02x"
                        "-%02x%02x"
                        "-%02x%02x"
