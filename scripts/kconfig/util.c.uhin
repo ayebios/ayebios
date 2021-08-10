@@ -122,7 +122,7 @@
 	पूर्ण
 पूर्ण
 
-/* Append म_लिखो क्रमmatted string to growable string */
+/* Append csम_लिखो क्रमmatted string to growable string */
 व्योम str_म_लिखो(काष्ठा gstr *gs, स्थिर अक्षर *fmt, ...)
 अणु
 	बहु_सूची ap;

@@ -89,7 +89,7 @@
 
 #समावेश "lkc.h"
 
-#घोषणा prपूर्णांकd(mask, fmt...) अगर (cdebug & (mask)) म_लिखो(fmt)
+#घोषणा prपूर्णांकd(mask, fmt...) अगर (cdebug & (mask)) sम_लिखो(fmt)
 
 #घोषणा PRINTD		0x0001
 #घोषणा DEBUG_PARSE	0x0002
